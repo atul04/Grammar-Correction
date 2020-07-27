@@ -19,8 +19,16 @@ Grammar Correction Module using seq2seq model with the attentive decoder
 3. To use the grammar-checker : **python3 translate.py**
 ```
 
+**Note : see the stepbystep notebook for detail flow of the process**
 
 
+## Tasks Completed
+
+- [x] Finish making a grammar checker **version-1.0**
+- [X] Interactive UI Checker 
+- [ ] Documentation
+- [ ] To increase it use cases by incorporating more errors
+- [ ] Use this file for more errors [Link](https://github.com/hadifar/GrammarCorrection) **IMP**
 
 
 
