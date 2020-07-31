@@ -5,7 +5,6 @@ Grammar Correction Module using seq2seq model with the attentive decoder
 
 | Subject | Links |
 | :---: | :---: | 
-%| What is deep - text corrector? | [Link](http://atpaino.com/2017/01/03/deep-text-correcter.html) | 
 | A seq 2 seq model with attention used in our case | [Link](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/Pytorch/more_advanced/Seq2Seq_attention/seq2seq_attention.py) |
 | Model path | [Link](https://drive.google.com/file/d/1S9thECtDVHTv-aDPqCjf0NejaeJ5nRNS/view?usp=sharing)
 
