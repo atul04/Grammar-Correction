@@ -14,7 +14,7 @@ Grammar Correction Module using seq2seq model with the attentive decoder
 1. Install the Requirements file **pip3 install -R Requirements**
 2. Run the training file: **python3 train_file.py**
 ```
->**After you got the model file ready, then only proceed forward , Download the my_checkpoint.pth.tar from the Model Path link given above**
+>**After you got the model file ready, then only proceed forward or just Download the my_checkpoint.pth.tar from the Model Path link given above**
 
 ```
 3. To use the grammar-checker : **python3 translate.py**
