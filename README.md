@@ -11,7 +11,7 @@ Grammar Correction Module using seq2seq model with the attentive decoder
 
 ## To Run
 ```
-1. Install the Requirements file **python3 install -R Requirements**
+1. Install the Requirements file **pip3 install -R Requirements**
 2. Run the training file: **python3 train_file.py**
 ```
 >**After you got the model file ready, then only proceed forward**
